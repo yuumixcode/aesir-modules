@@ -1,0 +1,30 @@
+{
+  "name": "cn.runlab.aesir-modules",
+  "displayName": "Aesir Modules",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "Aesir Inspector 开发功能模块包，提供多样化的开发模块，包括核心架构模块。",
+  "keywords": [],
+  "category": "Unity",
+  "author": {
+    "name": "RunLab - Yuumix",
+    "email": "",
+    "url": ""
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT",
+  "licensesUrl": "",
+  "changelogUrl": "",
+  "documentationUrl": "",
+  "samples": [
+    {
+      "displayName": "Hello World",
+      "description": "A basic example.",
+      "path": "Samples~/HelloWorld"
+    }
+  ]
+}

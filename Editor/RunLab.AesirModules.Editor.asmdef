@@ -1,0 +1,14 @@
+{
+  "name": "RunLab.AesirModules.Editor",
+  "rootNamespace": "RunLab.AesirModules.Editor",
+  "references": ["RunLab.AesirModules"],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
