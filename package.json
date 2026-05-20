@@ -1,11 +1,11 @@
 {
-  "name": "cn.runlab.aesir-modules",
-  "displayName": "Aesir Modules",
-  "version": "0.1.0",
+  "name": "cn.runlab.aesir-architecture",
+  "displayName": "Aesir Architecture",
+  "version": "0.3.0",
   "unity": "2022.3",
-  "description": "Aesir Inspector 开发功能模块包，提供多样化的开发模块，包括核心架构模块。",
-  "keywords": [],
-  "category": "Unity",
+  "description": "轻量级 MVP 架构包，以 AppContext<T> 为组合根，提供 IoC 依赖注入、类型事件总线、响应式属性和命令模式，原生支持 Data-Driven 开发与 AI Agent 文档体系。",
+  "keywords": ["architecture", "mvp", "ioc", "event-bus", "reactive", "data-driven"],
+  "category": "Architecture",
   "author": {
     "name": "RunLab - Yuumix",
     "email": "",
@@ -14,7 +14,7 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/yuumixcode/aesir-architecture.git"
   },
   "license": "MIT",
   "licensesUrl": "",

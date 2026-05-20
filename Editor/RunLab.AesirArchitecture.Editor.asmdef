@@ -1,0 +1,14 @@
+{
+  "name": "RunLab.AesirArchitecture.Editor",
+  "rootNamespace": "RunLab.AesirArchitecture.Editor",
+  "references": ["RunLab.AesirArchitecture"],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
